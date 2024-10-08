@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "由此开始.md",
+                "file": "格式/基本格式语法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "由此开始.md",
+                "file": "格式/基本格式语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "由此开始.md",
+                "file": "格式/基本格式语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "由此开始.md"
+                "file": "格式/基本格式语法.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,6 +161,23 @@
   },
   "active": "b59cb76168573556",
   "lastOpenFiles": [
+    "格式/高级格式语法.md",
+    "格式/Obsidian 风格的 Markdown 语法.md",
+    "格式/基本格式语法.md",
+    "由此开始.md",
+    "格式/标签.md",
+    "附件/Pasted image 18.png",
+    "附件/Insider.png",
+    "附件/help-support-console-menu.png",
+    "附件/Engelbart.jpg",
+    "附件/daily-notes-and-date-properties.png",
+    "附件/Backlinks.png",
+    "附件/application-installer-current-version.png",
+    "附件/video/街舞.mp4",
+    "附件/audio/Excerpt from Mother of All Demos (1968).ogg",
+    "附件/图标/obsidian-icon-vault-switcher.svg",
+    "附件/图标/obsidian-icon-side-bar-right.svg",
+    "附件/图标/obsidian-icon-side-bar-left.svg",
     "README.md",
     "核心插件/时间戳笔记生成器.md",
     "202410082052.md",
@@ -181,17 +198,9 @@
     "链接笔记与文件/插入文件.md",
     "链接笔记与文件/别名.md",
     "格式/属性.md",
-    "favicon-96x96.png",
-    "由此开始.md",
     "格式/嵌入网页.md",
-    "格式/附件.md",
-    "格式/标签.md",
-    "格式/使用 HTML 语法.md",
-    "格式/Obsidian 风格的 Markdown 语法.md",
-    "附件/video/街舞.mp4",
     "格式",
     "附件/video",
-    "附件/audio/Excerpt from Mother of All Demos (1968).ogg",
     "附件/pdf/Document.pdf",
     "附件/pdf",
     "Untitled.canvas",
