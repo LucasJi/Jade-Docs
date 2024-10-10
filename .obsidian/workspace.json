@@ -11,8 +11,12 @@
             "id": "e673935063f79b4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "语法/高级格式语法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "语法/高级格式语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "语法/高级格式语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "favicon-96x96.png"
+                "file": "语法/高级格式语法.md"
               }
             }
           },
@@ -154,8 +160,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5c8a5c3f8063591b",
+  "active": "e673935063f79b4c",
   "lastOpenFiles": [
+    "语法/基本格式语法.md",
+    "favicon-96x96.png",
     "附件/application-installer-current-version.png",
     "附件/Backlinks.png",
     "附件/daily-notes-and-date-properties.png",
@@ -167,7 +175,6 @@
     "格式/嵌入网页.md",
     "格式/附件.md",
     "格式/标注.md",
-    "语法/基本格式语法.md",
     "语法",
     "由此开始.md",
     "语法/高级格式语法.md",
@@ -179,7 +186,6 @@
     "附件/video/街舞.mp4",
     "附件/图标/obsidian-icon-vault-switcher.svg",
     "附件/图标/obsidian-icon-side-bar-right.svg",
-    "附件/图标/obsidian-icon-side-bar-left.svg",
     "README.md",
     "核心插件/时间戳笔记生成器.md",
     "202410082052.md",

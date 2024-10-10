@@ -126,7 +126,7 @@
       "default-language": ""
     },
     "emphasis-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "consistent"
     },
     "no-bare-urls": {
@@ -152,7 +152,7 @@
       "enabled": false
     },
     "remove-empty-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphenated-line-breaks": {
       "enabled": false
@@ -161,7 +161,7 @@
       "enabled": false
     },
     "strong-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
@@ -173,15 +173,15 @@
       "list-style": "consistent"
     },
     "compact-yaml": {
-      "enabled": false,
-      "inner-new-lines": false
+      "enabled": true,
+      "inner-new-lines": true
     },
     "consecutive-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "convert-spaces-to-tabs": {
       "enabled": false,
-      "tabsize": 4
+      "tabsize": "2"
     },
     "empty-line-around-blockquotes": {
       "enabled": true
